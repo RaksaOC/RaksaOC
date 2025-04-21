@@ -19,8 +19,6 @@
   👉 <a href="https://raksa.netlify.app" target="_blank"><strong>Visit my portfolio</strong></a>
 </p>
 
-<hr>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -61,8 +59,6 @@
   <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<hr>
-
 <h2 align="center">🌟 Favorite Work</h2>
 
 <p align="center">
@@ -71,8 +67,6 @@
   🚍 <a href="https://github.com/RaksaOC/Bus-Management-System.git"><strong>Bus Management System</strong></a><br/>
   🛠️ <em>Coming soon...</em>
 </p>
-
-<hr>
 
 <h2 align="center">📈 Statistics</h2>
 
@@ -87,8 +81,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaksaOC&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
-
-<hr>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -122,7 +114,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Phone-%2B855%2012%20554%20049-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
 </p>
-
-<hr>
 
 <h2 align="center">Thanks for stopping by! 🚀</h2>
