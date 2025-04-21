@@ -82,9 +82,7 @@ Here are a few projects I'm most proud of:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=RaksaOC&icon=0&color=1" alt="visit counter"/>
-  </a>
+  <a href="https://u8views.com/github/RaksaOC"><img src="https://u8views.com/api/v1/github/profiles/123465277/views/day-week-month-total-count.svg"></a>
 </p>
 
 <p align="center">
