@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Raksa.;Welcome+to+my+GitHub+profile.;I+build+cool+software+with+Java+%26+JS.)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Raksa.;Welcome+to+my+GitHub+profile.;I+build+cool+software+with+Java+%26+JS." alt="Typing SVG" />
+</p>
 
 <h2 align="center">👋 Hey there! I'm <strong>Chanraksa Ory</strong></h2>
 
@@ -44,12 +46,12 @@
 
 ## 🌟 Favorite Work
 
-Here are a few projects I'm proud of (with more to come!):
+Here are a few projects I'm most proud of:
 
-- 🎨 [**Portfolio Website (React)**](https://github.com/RaksaOC/Portfolio.git)
+- 🎨 [**Portfolio Website**](https://github.com/RaksaOC/Portfolio.git)
 - 🌐 [**Learning Management System**](https://github.com/RaksaOC/Learning-Management-System.git)
 - 🚍 [**Bus Management System**](https://github.com/RaksaOC/Bus-Management-System.git)
-
+- Coming soon...
 ---
 
 ## 📊 GitHub Stats
@@ -66,9 +68,41 @@ Here are a few projects I'm proud of (with more to come!):
 
 ## 🌐 Connect with Me
 
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
-<br>
+<p align="center">
+  <a href="mailto:ocraksa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
+  <a href="https://www.facebook.com/ory.chanraksa/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+
+  <a href="https://www.youtube.com/@raksa7276" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ory-chanraksa-1702b6263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~0193c96741cd57f0f1" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
+
+  <a href="https://www.instagram.com/_chan_raksa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+  <a href="https://discord.com/users/blop6376" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Phone-%2B855%2012%20554%20049-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+</p>
+
 
 ---
 
-<p>Thanks for stopping by! <p/>
+<p align="center">Thanks for stopping by! 🚀</p>
