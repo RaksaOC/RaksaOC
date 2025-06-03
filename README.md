@@ -43,11 +43,13 @@
   </p>
   
   <p align="center">
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/three.js-%2342b3b8.svg?style=for-the-badge&logo=three.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/javafx-%23FF4F00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </p>
+
   
   <p align="center">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -74,8 +76,20 @@
     🎨 <a href="https://github.com/RaksaOC/Portfolio.git"><strong>Portfolio Website</strong></a><br/>
     🌐 <a href="https://github.com/RaksaOC/Learning-Management-System.git"><strong>Learning Management System</strong></a><br/>
     🚍 <a href="https://github.com/RaksaOC/Bus-Management-System.git"><strong>Bus Management System</strong></a><br/>
-    🛠️ <em>Coming soon...</em>
+    🛠️ <em>More Coming soon...</em>
   </p>
+
+  <br/>
+  
+  <h2 align="center">🚧 Currently Working On</h2>
+  
+  <br/>
+
+  <p align="center">
+    🧩 <a href="https://github.com/RaksaOC/V-Menu.git"><strong>V-Menu</strong></a><br/>
+    📰 <a href="https://github.com/HeHcS/QuickNews-Frontend.git"><strong>QuickNews – Frontend</strong></a><br/>
+  </p>
+
   
   <br/>
   
