@@ -87,7 +87,7 @@
 
   <p align="center">
     🧩 <a href="https://github.com/RaksaOC/V-Menu.git"><strong>V-Menu</strong></a><br/>
-    📰 <a href="https://github.com/HeHcS/QuickNews-Frontend.git"><strong>QuickNews – Frontend</strong></a><br/>
+    📰 <strong>QuickNews – Frontend</strong><br/>
   </p>
 
   
