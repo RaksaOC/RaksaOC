@@ -86,11 +86,11 @@
   <br/>
 
   <p align="center">
-  🧪 <a href="https://github.com/RaksaOC/V-Menu.git"><strong>V-Menu</strong></a> – Experimental menu framework<br/>
-  🎬 <a href="https://github.com/RaksaOC/Grand-Cineplex"><strong>Grand Cineplex</strong></a> – Movie theater web app<br/>
-  🛡️ <a href="https://github.com/RaksaOC/Grand-Cineplex-DBA"><strong>Grand Cineplex DBA</strong></a> – Admin dashboard for database control<br/>
-  🗞️ <strong>QuickNews – Frontend</strong> – News aggregator UI<br/>
-  🤝 <strong>Contributing to open source & assisting others</strong> – Helping the dev community<br/>
+  🧪 <a href="https://github.com/RaksaOC/V-Menu.git"><strong>V-Menu</strong></a><br/>
+  🎬 <a href="https://github.com/RaksaOC/Grand-Cineplex"><strong>Grand Cineplex</strong></a><br/>
+  🛡️ <a href="https://github.com/RaksaOC/Grand-Cineplex-DBA"><strong>Grand Cineplex DBA</strong></a><br/>
+  🗞️ <strong>QuickNews – Frontend</strong><br/>
+  🤝 <strong>Contributing to open source & assisting others</strong><br/>
 </p>
 
   
