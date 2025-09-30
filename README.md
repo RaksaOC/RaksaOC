@@ -5,15 +5,15 @@
   <h2 align="center">👋 Hey there! I'm <strong>Chanraksa Ory</strong></h2>
   
   <p align="center">
-    I'm an ambitious <strong>Computer Science sophomore</strong> and <strong>software developer</strong><br/>
+    I'm a <strong>Computer Science Student</strong> and <strong> developer</strong><br/>
     based in <strong>Phnom Penh, Cambodia 🇰🇭</strong>.
   </p>
   
   <br/>
   
   <p align="center">
-    I love crafting elegant code, building practical applications, and learning new technologies <br/>
-    that help me grow as a developer every single day. From designing UIs to building robust <br/> backends—
+    I love crafting elegant code, building practical applications, and learning new technologies. <br/>
+    From designing & building UIs to building robust <br/> backends—
     I'm always eager to solve real-world problems with code.
   </p>
   
