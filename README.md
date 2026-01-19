@@ -17,7 +17,7 @@
   </p>
   
   <p align="center">
-    👉 <a href="https://raksa.netlify.app" target="_blank"><strong>Visit my portfolio</strong></a> 👈
+    👉 <a href="https://chanraksa.com" target="_blank"><strong>Visit my portfolio</strong></a> 👈
   </p>
   
   
