@@ -5,8 +5,7 @@
   <h2 align="center">Hey there! I'm <strong>Chanraksa Ory</strong></h2>
   
   <p align="center">
-    I'm a <strong>Computer Science Student</strong>, <strong> freelance developer</strong> and <strong> founder of 🟣 <a href="https://komplex.app" target="_blank">KOMPLEX</a> 🟣</strong><br/>
-    based in <strong>Phnom Penh, Cambodia 🇰🇭</strong>.
+    I'm a <strong>Computer Science Student</strong>, and <strong> freelance developer</strong>.
   </p>
   
   <p align="center">
