@@ -37,11 +37,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%"><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/mlmupc-hrm/cover.jpg" /></a><br/><b>MLMUPC HRM</b>: attendance, leave and staff records for a ministry of ~3,000 civil servants<br/><sub>Angular · NestJS · Flutter · PostgreSQL · Redis</sub></td>
-    <td align="center" width="50%"><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/nis-hrm/cover.jpg" /></a><br/><b>NIS HRM</b>: HR platform with face-scan attendance terminals<br/><sub>Angular · NestJS · Flutter · Python · Raspberry Pi</sub></td>
+    <td align="center" width="50%"><a href="https://github.com/RaksaOC/Grand-Cineplex"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/grand-cineplex/cover.jpg" /></a><br/><b>Grand Cineplex</b>: cinema operations with customer, cashier and manager apps and ABA PayWay checkout<br/><sub>React · Express · PostgreSQL</sub></td>
+    <td align="center" width="50%"><a href="https://github.com/RaksaOC/Learning-Management-System"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/lms/cover.jpg" /></a><br/><b>Learning Management System</b>: courses, enrollments and teacher assignments across admin, teacher and student apps<br/><sub>Java · JavaFX · MySQL</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/phumiyerng/cover.jpg" /></a><br/><b>PhumiYerng</b>: trips, homestays and farm-fresh products from 19 rural communities across Cambodia<br/><sub>Flutter · Angular · NestJS · PostgreSQL · Redis</sub></td>
+    <td align="center"><a href="https://github.com/RaksaOC/Quizzy"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/quizzy/cover.jpg" /></a><br/><b>Quizzy</b>: educational games and quizzes for kids, with colourful animations and sound<br/><sub>Next.js · Tailwind · Framer Motion</sub></td>
     <td align="center"><a href="https://github.com/KOMPLEX-KH/KOMPLEX"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/komplex/cover.jpg" /></a><br/><b>KOMPLEX</b>: a learning platform for Khmer students<br/><sub>Next.js · Expo · Express · FastAPI · PostgreSQL</sub></td>
   </tr>
   <tr>
