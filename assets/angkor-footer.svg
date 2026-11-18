@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="">
+  <defs>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="120" y1="0" x2="1080" y2="0">
+      <stop offset="0" stop-color="#f0c674" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#f0c674" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#f0c674" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M120 56H540M660 56H1080" stroke="url(#line)" stroke-width="1.4"/>
+  <!-- lotus -->
+  <g transform="translate(600 52)" fill="none" stroke="#f0c674" stroke-width="1.6" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M0 0C-10-14-10-30 0-42C10-30 10-14 0 0Z"/>
+    <path d="M0 0C-16-6-28-18-30-34C-16-30-6-18 0 0Z"/>
+    <path d="M0 0C16-6 28-18 30-34C16-30 6-18 0 0Z"/>
+    <path d="M0 0C-24 0-42-8-50-20C-34-22-16-14 0 0Z"/>
+    <path d="M0 0C24 0 42-8 50-20C34-22 16-14 0 0Z"/>
+    <path d="M-56 4H56" stroke-opacity=".7"/>
+    <animate attributeName="stroke-opacity" values=".6;1;.6" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g fill="#f0c674" filter="url(#glow)">
+    <circle cx="560" cy="30" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="648" cy="22" r="1.3"><animate attributeName="opacity" values="0;1;0" dur="4.1s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="36" r="1.8"><animate attributeName="opacity" values="0;1;0" dur="3.7s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="505" cy="40" r="1.2"><animate attributeName="opacity" values="0;1;0" dur="4.6s" begin=".5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

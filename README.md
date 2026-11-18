@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.chanraksa.com"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/github/angkor-banner.svg" width="100%" alt="Hey, I'm Raksa. Full-stack software engineer" /></a>
+  <a href="https://www.chanraksa.com"><img src="assets/angkor-banner.svg" width="100%" alt="Hey, I'm Raksa. Full-stack software engineer" /></a>
 </p>
 
 <p align="center">
@@ -75,5 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/github/angkor-footer.svg" width="100%" alt="" />
+  <img src="assets/angkor-footer.svg" width="100%" alt="" />
 </p>
