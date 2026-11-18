@@ -1,11 +1,9 @@
-<!-- GitHub profile README: copy into the RaksaOC/RaksaOC repo as README.md -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,55:1c2a22,100:f0c674&text=Ory%20Chanraksa&fontColor=f0c674&fontSize=58&fontAlignY=38&desc=Full-stack%20software%20engineer%20%C2%B7%20web%2C%20mobile%20%26%203D&descAlignY=60&descSize=17&animation=fadeIn" alt="Ory Chanraksa" />
+  <a href="https://www.chanraksa.com"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/github/angkor-banner.svg" width="100%" alt="Ory Chanraksa, software engineer" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F0C674&center=true&vCenter=true&width=560&lines=Hey!+I'm+Raksa+%F0%9F%91%8B;Full-stack+developer+%40+CamCyber;Building+national-scale+government+platforms;Turning+ideas+into+web%2C+mobile+%26+3D+apps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F0C674&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Raksa;Full-stack+software+engineer;Web%2C+mobile+and+3D;Turning+ideas+into+products+people+use" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -13,14 +11,11 @@
   <img src="https://u8views.com/api/v1/github/profiles/123465277/views/total-count.svg" alt="Profile views" />
 </p>
 
-### ✦ About me
+### About me
 
-- 🏛️ **Full Stack Developer at CamCyber**: HR, licensing and tourism platforms used by government ministries
-- 🎓 **Computer Science student at CADT**, specializing in Software Engineering
-- 💼 **Freelancer**: taking projects from requirements to deployment
-- 🌏 My portfolio has **25 themes, each with its own 3D scene**, in English and Khmer, plus an AI assistant. [Pick a theme →](https://www.chanraksa.com)
+I'm a full-stack software engineer and computer science student who enjoys turning ideas into products people actually use. I work across the whole stack, from web and mobile front ends to the APIs, databases and servers behind them, and I care about clean architecture, performance and the small details that make software feel good. When I'm not building, I'm usually learning something new or experimenting with 3D on the web.
 
-### ✦ Tech stack
+### Tech stack
 
 | | |
 |:--|:--|
@@ -29,7 +24,7 @@
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,postgres,redis,mongodb,firebase&theme=dark" height="40" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,vercel,gitlab,ansible,git,figma&theme=dark" height="40" /> |
 
-### ✦ Featured work
+### Featured work
 
 <table>
   <tr>
@@ -37,7 +32,7 @@
     <td width="50%"><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/nis-hrm/cover.jpg" /></a><br/><b>NIS HRM</b>: HR platform with face-scan attendance terminals<br/><sub>Angular · NestJS · Flutter · Python · Raspberry Pi</sub></td>
   </tr>
   <tr>
-    <td><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/ccn/cover.jpg" /></a><br/><b>CCN</b>: nurse registration, licensing and QR certificates, on the App Store and Google Play<br/><sub>Flutter · Firebase</sub></td>
+    <td><a href="https://www.chanraksa.com/#projects"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/phumiyerng/cover.jpg" /></a><br/><b>PhumiYerng</b>: trips, homestays and farm-fresh products from 19 rural communities across Cambodia<br/><sub>Flutter · Angular · NestJS · PostgreSQL · Redis</sub></td>
     <td><a href="https://github.com/KOMPLEX-KH/KOMPLEX"><img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/projects/komplex/cover.jpg" /></a><br/><b>KOMPLEX</b>: a learning platform for Khmer students<br/><sub>Next.js · Expo · Express · FastAPI · PostgreSQL</sub></td>
   </tr>
   <tr>
@@ -48,7 +43,7 @@
 
 <p align="center"><a href="https://www.chanraksa.com/#projects">See all 20 projects →</a></p>
 
-### ✦ Stats
+### Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RaksaOC&theme=dark&hide_border=true&background=0d1117&ring=f0c674&fire=f0c674&currStreakLabel=f0c674" height="165" alt="GitHub streak" />
@@ -56,7 +51,7 @@
 </p>
 <p align="center"><a href="https://committers.top/cambodia"><img src="https://user-badge.committers.top/cambodia/RaksaOC.svg" alt="committers.top badge" /></a></p>
 
-### ✦ Let's connect
+### Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ory-chanraksa-1702b6263/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f0c674" /></a>
@@ -67,4 +62,6 @@
   <a href="https://www.facebook.com/ory.chanraksa/"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=f0c674" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f0c674,45:1c2a22,100:0d1117" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaksaOC/Portfolio/main/public/images/github/angkor-footer.svg" width="100%" alt="" />
+</p>
